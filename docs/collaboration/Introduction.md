@@ -1,3 +1,0 @@
-# Introduction
-
-## Lab Setup
