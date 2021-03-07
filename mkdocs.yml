@@ -1,0 +1,29 @@
+site_name: EMEAR Programmability CTF
+nav:
+  - Home: index.md
+  - Enterprise Networking:
+    - enterprise_networking/Introduction.md
+    - Stages:
+      - enterprise_networking/stages/stage-0.md
+    - Hints:
+      - enterprise_networking/hints/stage-1.md
+  - Collabortion:
+    - collaboration/Introduction.md
+    - Stages:
+      - collaboration/stages/stage-0.md
+    - Hints:
+      - collaboration/hints/stage-1.md
+copyright: The Programmability CTF is a project by Marcel Neidinger and Frederic Wagner
+theme:
+  palette:
+    primary: blue
+  name: material
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 4
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
