@@ -5,14 +5,50 @@ nav:
     - enterprise_networking/Introduction.md
     - Stages:
       - enterprise_networking/stages/stage-0.md
+      - enterprise_networking/stages/stage-1.md
+      - enterprise_networking/stages/stage-2.md
+      - enterprise_networking/stages/stage-3.md
     - Hints:
+      - enterprise_networking/hints/stage-0.md
       - enterprise_networking/hints/stage-1.md
+      - enterprise_networking/hints/stage-2.md
+      - enterprise_networking/hints/stage-3.md
   - Collaboration:
     - collaboration/Introduction.md
     - Stages:
       - collaboration/stages/stage-0.md
+      - collaboration/stages/stage-1.md
+      - collaboration/stages/stage-2.md
+      - collaboration/stages/stage-3.md
     - Hints:
+      - collaboration/hints/stage-0.md
       - collaboration/hints/stage-1.md
+      - collaboration/hints/stage-2.md
+      - collaboration/hints/stage-3.md
+  - Security:
+    - security/Introduction.md
+    - Stages:
+      - security/stages/stage-0.md
+      - security/stages/stage-1.md
+      - security/stages/stage-2.md
+      - security/stages/stage-3.md
+    - Hints:
+      - security/hints/stage-0.md
+      - security/hints/stage-1.md
+      - security/hints/stage-2.md
+      - security/hints/stage-3.md
+  - Data Center:
+    - data_center/Introduction.md
+    - Stages:
+      - data_center/stages/stage-0.md
+      - data_center/stages/stage-1.md
+      - data_center/stages/stage-2.md
+      - data_center/stages/stage-3.md
+    - Hints:
+      - data_center/hints/stage-0.md
+      - data_center/hints/stage-1.md
+      - data_center/hints/stage-2.md
+      - data_center/hints/stage-3.md
 copyright: The Programmability CTF is a project by Marcel Neidinger and Frederic Wagner
 theme:
   palette:
