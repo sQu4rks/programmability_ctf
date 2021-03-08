@@ -30,7 +30,7 @@ Please create a virtual environment and then install the requirements by navigat
 ```bash
 $ python3 -m venv venv
 $ source venv/bin/activate
-$ python3 -m pip3 install -r requirements.txt
+$ python3 -m pip install -r requirements.txt
 ```
 
 Lastly, verify that the installation worked by running the verification script.

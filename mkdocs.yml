@@ -13,18 +13,18 @@ nav:
       - enterprise_networking/hints/stage-1.md
       - enterprise_networking/hints/stage-2.md
       #- enterprise_networking/hints/stage-3.md
-  #- Collaboration:
-  #  - collaboration/Introduction.md
-  #  - Stages:
-  #    - collaboration/stages/stage-0.md
-  #    - collaboration/stages/stage-1.md
-  #    - collaboration/stages/stage-2.md
-  #    - collaboration/stages/stage-3.md
-  #  - Hints:
-  #    - collaboration/hints/stage-0.md
-  #    - collaboration/hints/stage-1.md
-  #    - collaboration/hints/stage-2.md
-  #    - collaboration/hints/stage-3.md
+  - Collaboration:
+    - collaboration/Introduction.md
+    - Stages:
+      - collaboration/stages/stage-0.md
+      - collaboration/stages/stage-1.md
+      - collaboration/stages/stage-2.md
+      - collaboration/stages/stage-3.md
+    - Hints:
+      - collaboration/hints/stage-0.md
+      - collaboration/hints/stage-1.md
+      - collaboration/hints/stage-2.md
+      - collaboration/hints/stage-3.md
   #- Security:
   #  - security/Introduction.md
   #  - Stages:
