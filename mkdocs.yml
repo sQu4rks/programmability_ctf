@@ -12,7 +12,7 @@ nav:
       - enterprise_networking/hints/stage-0.md
       - enterprise_networking/hints/stage-1.md
       - enterprise_networking/hints/stage-2.md
-      - enterprise_networking/hints/stage-3.md
+      #- enterprise_networking/hints/stage-3.md
   #- Collaboration:
   #  - collaboration/Introduction.md
   #  - Stages:
