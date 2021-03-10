@@ -25,18 +25,18 @@ nav:
       - collaboration/hints/stage-1.md
       - collaboration/hints/stage-2.md
       - collaboration/hints/stage-3.md
-  #- Security:
-  #  - security/Introduction.md
-  #  - Stages:
-  #    - security/stages/stage-0.md
-  #    - security/stages/stage-1.md
-  #    - security/stages/stage-2.md
-  #    - security/stages/stage-3.md
-  #  - Hints:
-  #    - security/hints/stage-0.md
-  #    - security/hints/stage-1.md
-  #    - security/hints/stage-2.md
-  #    - security/hints/stage-3.md
+  - Security:
+    - security/Introduction.md
+    - Stages:
+      - security/stages/stage-0.md
+      - security/stages/stage-1.md
+      - security/stages/stage-2.md
+      - security/stages/stage-3.md
+    - Hints:
+      - security/hints/stage-0.md
+      - security/hints/stage-1.md
+      - security/hints/stage-2.md
+      - security/hints/stage-3.md
   #- Data Center:
   #  - data_center/Introduction.md
   #  - Stages:
