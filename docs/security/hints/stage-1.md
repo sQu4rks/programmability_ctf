@@ -1,28 +1,18 @@
 # Hints for Stage 1
 
-## Level 1:
-<details>
-<summary>I could use hint 1</summary>
+??? note "I could use hint 1"
 
-In this stage you should:
-* Use the Investigate API to get information about an URL 
-* Send an URL to Umbrella that should be added to a blocklist via Umbrella Enforcement API
+    In this stage you should:
 
-</details>  
+    * Use the Investigate API to get information about an URL 
+    * Send an URL to Umbrella that should be added to a blocklist via Umbrella Enforcement API
 
-## Level 2:
-<details>
-<summary>I could use hint 2</summary>
+??? note "I could use hint 2"
 
-Umbrella Enforcement API documentation: https://docs.umbrella.com/enforcement-api/docs
-For sending Events to the Umbrella Enforcement API refer to: https://docs.umbrella.com/enforcement-api/reference/#post-events-2
+    Umbrella Enforcement API documentation: https://docs.umbrella.com/enforcement-api/docs
+    For sending Events to the Umbrella Enforcement API refer to: https://docs.umbrella.com/enforcement-api/reference/#post-events-2  
 
-</details>  
+??? note "I could use hint 3"
 
-## Level 3:
-<details>
-<summary>I could use hint 3</summary>
+    For hint level 3 please contact your proctor.
 
-For hint level 3 please contact your proctor.
-
-</details>  

@@ -1,12 +1,9 @@
 # Hints for Stage 1
 
-<details>
-  <summary>Click here to show hint level 1</summary>
-  
-  The Webex API allows you to create a new space. When creating a new space you'll get the id of the space you just created. With that you can also create *memberships* for that specific space.
+??? note "Click here to show hint level 1"
+    The Webex API allows you to create a new space. When creating a new space you'll get the id of the space you just created. With that you can also create *memberships* for that specific space.
 
-  Sending a message and creating the memberships and spaces involves using `POST` requests.
-</details>
+    Sending a message and creating the memberships and spaces involves using `POST` requests.
 
 <details>
   <summary>Click here to show hint level 2</summary>
