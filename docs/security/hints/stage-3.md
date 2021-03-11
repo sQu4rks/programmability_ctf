@@ -27,6 +27,6 @@
 
     * Webex Message: https://developer.webex.com/docs/api/v1/messages/create-a-message
 
-    As this is a open ended task regarding the report creation, feel free to use whatever format you like. 
+As this is a open ended task regarding the report creation, feel free to use whatever format you like. 
 
 
