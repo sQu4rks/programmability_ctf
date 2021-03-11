@@ -5,7 +5,7 @@
     In this Stage, you should:
 
     * Get all event types from AMP
-    * Check `Malware Executed` Events that have occured on the Host `Demo_AMP_Threat_Audit` 
+    * Check `Executed malware` Events that have occured on the Host `Demo_AMP_Threat_Audit` 
     * Save the SHA-256 of the Malware file for later use
     * Isolate the host through AMP. Be aware that it could already be isolated due to the shared environment
     * Check Threatgrid Submissions for the Malware File and save the sample id
