@@ -2,7 +2,9 @@
 
 ??? note "I could use hint 1"
 
-    
+    Have a look at the `verify.py` script. Here we have shown how to connect to ACI and query a endpoint.
+    You can find the docs for ACI by logging into the ACI web interface and look for the documentation 
+    on the upper right handside.
 
 ??? note "I could use hint 2"
 

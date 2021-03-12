@@ -37,17 +37,17 @@ nav:
       - security/hints/stage-1.md
       - security/hints/stage-2.md
       - security/hints/stage-3.md
-  #- Data Center:
-  #  - data_center/Introduction.md
-  #  - Stages:
-  #    - data_center/stages/stage-0.md
-  #    - data_center/stages/stage-1.md
-  #    - data_center/stages/stage-2.md
-  #    - data_center/stages/stage-3.md
-  #  - Hints:
-  #    - data_center/hints/stage-0.md
-  #    - data_center/hints/stage-1.md
-  #    - data_center/hints/stage-2.md
+  - Data Center:
+    - data_center/Introduction.md
+    - Stages:
+      - data_center/stages/stage-0.md
+      - data_center/stages/stage-1.md
+      - data_center/stages/stage-2.md
+      - data_center/stages/stage-3.md
+    - Hints:
+      - data_center/hints/stage-0.md
+      - data_center/hints/stage-1.md
+      - data_center/hints/stage-2.md
   #    - data_center/hints/stage-3.md
 copyright: The Programmability CTF is a project by Marcel Neidinger and Frederic Wagner
 theme:
